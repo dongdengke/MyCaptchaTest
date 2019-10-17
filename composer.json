@@ -1,0 +1,19 @@
+{
+    "name": "xiaokeke/mycaptcha",
+    "description": "this is mycaptcha test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaokeke",
+            "email": "ddklsy@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "xiaokeke\\chaptcha\\":"src/"
+        }
+    }
+}
